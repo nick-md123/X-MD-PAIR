@@ -69,21 +69,21 @@ app.get('/pairing', async (req, res) => {
 	 //const sparkyses = await sparky.sendMessage(sparky.user.id, { document: sessionsparky, mimetype: `application/json`, fileName: `creds.json` });
 			
 		
-				await sparky.sendMessage(sparky.user.id, { text: `_*Thanks for choosing X-BOT-MD*_
+				await sparky.sendMessage(sparky.user.id, { text: `_*Thanks for choosing NICK-MD*_
 
 *REPO*
-https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD
+https://github.com/nick-md123/Krishnan
             
             
 *ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ғᴏʀ ᴍᴏʀᴇ ϙᴜᴇʀʏ*
-https://chat.whatsapp.com/KMqXtMicl9uCgMuduidlXb
+https://chat.whatsapp.com/KMqXtMicl9uCgMuduidlX
             
 *Cʜᴀɴɴᴇʟ ʟɪɴᴋ*
-https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00
+https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x0
             
             
 *Replit Deployment Tutorial Link:*
-https://youtu.be/SfXJuSug4Lo?si=aRToYKZFZFzan0a0
+https://youtu.be/SfXJuSug4Lo?si=aRToYKZFZFzan0a
             
 *Heroku Deployment link:*
             
